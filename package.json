@@ -1,0 +1,23 @@
+{
+  "name": "sphiere.com.bn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sphiereco/sphiere.com.bn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sphiereco/sphiere.com.bn/issues"
+  },
+  "homepage": "https://github.com/Sphiereco/sphiere.com.bn#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
